@@ -39,6 +39,7 @@ and open the template in the editor.
         for ($x = 0; $x < $arrlength; $x++) {
             echo $cars[$x];
             echo "<hr>";
+            
         }
         ?>
     </body>

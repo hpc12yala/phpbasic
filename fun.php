@@ -9,8 +9,8 @@ function writeMsg() {
     echo "Hello world!";
 }
 function Cat($c,$n){
-    $color =c;
-    $name = n;
+    $color = c;
+    $name  = n;
 }
 
 writeMsg();
